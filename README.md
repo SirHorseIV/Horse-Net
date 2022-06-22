@@ -1,1 +1,1 @@
-**A Browser made in Python with PyQt5**
+**A browser made in Python with PyQt5**
